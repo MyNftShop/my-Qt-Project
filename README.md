@@ -7,3 +7,14 @@
 
 #### 微信群发助手
 QT GUI 群发消息给通讯录好友
+![image0](https://github.com/sangxiaokai/my-Qt-Project/blob/master/%E5%BE%AE%E4%BF%A1%E7%BE%A4%E5%8F%91%E7%A8%8B%E5%BA%8F%E5%8C%85/%E9%A2%84%E8%A7%88/w-05.png)
+
+![image1](https://github.com/sangxiaokai/my-Qt-Project/blob/master/%E5%BE%AE%E4%BF%A1%E7%BE%A4%E5%8F%91%E7%A8%8B%E5%BA%8F%E5%8C%85/%E9%A2%84%E8%A7%88/w-2.png)
+
+![image2](https://github.com/sangxiaokai/my-Qt-Project/blob/master/%E5%BE%AE%E4%BF%A1%E7%BE%A4%E5%8F%91%E7%A8%8B%E5%BA%8F%E5%8C%85/%E9%A2%84%E8%A7%88/w-3.png)
+
+![image3](https://github.com/sangxiaokai/my-Qt-Project/blob/master/%E5%BE%AE%E4%BF%A1%E7%BE%A4%E5%8F%91%E7%A8%8B%E5%BA%8F%E5%8C%85/%E9%A2%84%E8%A7%88/w-4.png)
+
+![image4](https://github.com/sangxiaokai/my-Qt-Project/blob/master/%E5%BE%AE%E4%BF%A1%E7%BE%A4%E5%8F%91%E7%A8%8B%E5%BA%8F%E5%8C%85/%E9%A2%84%E8%A7%88/w-5.png)
+
+![image5](https://github.com/sangxiaokai/my-Qt-Project/blob/master/%E5%BE%AE%E4%BF%A1%E7%BE%A4%E5%8F%91%E7%A8%8B%E5%BA%8F%E5%8C%85/%E9%A2%84%E8%A7%88/w-6.png)
